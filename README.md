@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity, Python and Javascript.
 - 🌱 I’m currently learning Reverse engineering and Software development techniques
 - 💞️ I’m looking to collaborate on Open Source work
-- 📫 How to reach me 
+- 📫 How to reach me Discord zPochy#1625
 
 <!---
 zPochy/zPochy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
